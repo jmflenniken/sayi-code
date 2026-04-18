@@ -1,4 +1,4 @@
-# Source code/work flows in Flenniken et al. 2026. Current Gaps and Future Threats to Say’s Spiketail Habitat in the Southeastern USA. Ecology and Evolution.
+# Source code/work flows in Flenniken et al. 2026. Current Protections and Future Threats to Say’s Spiketail Habitat in the Southeastern USA. Ecology and Evolution.
 
 ###########################################################
 
